@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.3
+title: 🪴 The digital garden of ChuChuChaddy
 enableToc: false
 ---
 
